@@ -1,0 +1,29 @@
+def test_function_case_sally():
+    #Setup
+    expected = "Hey, sally"
+    argument = "sally"
+
+    #Invoke
+    result = function(argument)
+     
+    #Expected
+    assert expected == result
+
+# Top of functions_test.py file
+import functions.py
+
+def test_function_case_joe():
+    #Setup
+    expected = "Hey, joe"
+    name = "joe"
+
+    #Invoke
+    result = functions.function(name)
+     
+    #Expected
+    assert expected == result
+
+# this is in a file called functions.py BELOW
+def function(name):
+
+    return "Hey, " + name

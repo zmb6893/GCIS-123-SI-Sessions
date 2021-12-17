@@ -1,0 +1,21 @@
+flower id, name, color, size, number of layers
+0, Rose, red, 30, 5
+1, Daisy, white, 10, 1
+2, Chrysanthemum, yellow, 30, 5
+3, California Poppy, orange, 10, 1
+4, Daffodil, white, 10, 2 
+5, Azalea, pink, 10, 3
+6, Aster, purple, 10, 2
+7, Black-Eyed Susan, yellow, 15, 1
+8, Buttercup, yellow, 10, 1
+9, Crocus, purple, 15, 2
+10, Carnations, pink, 20, 5
+11, Dahlias, orange, 20, 5
+12, Delphinium, blue, 5, 3
+13, Gardenias, white, 15, 5
+14, Marigold, orange, 15, 5
+15, Sunflower, yellow, 40, 1
+16, Zinnia, yellow, 25, 5
+17, Zinnia, purple, 25, 5
+18, Zinnia, red, 25, 5
+19, Tulip, orange, 15, 2
